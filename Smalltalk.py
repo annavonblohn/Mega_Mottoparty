@@ -23,7 +23,7 @@ def main():
     options1 = ["Blue", "Red", "Green", "Yellow"]
 
     question2 = "If you could travel anywhere, where would you go?"
-    options2 = ["Paris", "Tokyo", "New York", "Beach vacation"]
+    options2 = ["Berlin", "Leipzig", "Kaiserslautern", "Münster"]
 
     question3 = "What is your favorite programming language?"
     options3 = ["Python", "JavaScript", "Java", "C++"]
